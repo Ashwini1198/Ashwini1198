@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwini1198&label=Profile%20views&color=0e75b6&style=flat" alt="ashwini1198" /> </p>
 
+- I have completed BE in Electronics and Communication Engineering from Priyadarshini Bhagawati College Of Engineering Nagpur
+
 - 🌱 I’m currently learning **Data Analysis,Data visualization,Python,SQL,R,Excel**
 
 - 📫 How to reach me **ashwinikantode06@gmail.com**
