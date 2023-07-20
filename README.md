@@ -5,7 +5,7 @@
 
 - I have completed BE in Electronics and Communication Engineering from Priyadarshini Bhagawati College Of Engineering Nagpur
 
-- 🌱 I’m currently learning **Data Analysis,Data visualization,Python,SQL,R,Excel**
+- 🌱 I’m certified in **Data Analytics** advanced course.
 
 - 📫 How to reach me **ashwinikantode06@gmail.com**
 
